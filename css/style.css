@@ -1,0 +1,11 @@
+.carousel {
+    overflow:hidden;
+    align-content: center;
+    width: 100%;
+    height: 300px;
+}
+.carousel-item{
+    width: 100%;
+    align-self: auto;
+    align-content: center;
+}
